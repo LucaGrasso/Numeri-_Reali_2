@@ -1,3 +1,6 @@
+Esame sostenuto all'Università di Urbino di programmazione procedurale.
+
+
 ## Numeri Reali ##
 Progetto di libreria in C per linux - Progetto presentato per il corso di laurea L31 a Urbino
 Sessione Invernale Gennaio 2019
